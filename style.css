@@ -18,7 +18,10 @@ height: auto;
 .hero > h1 {
     place-self: center;
     font-size: 4rem;
-    color: lime;
+    color: #f6b816    ;
+    outline-style: solid;
+    outline-color: #e0b11e;
+    outline-width: 0,5ch;
 }
 nav {
     display: flex;
